@@ -28,7 +28,7 @@ public class Programa {
 		
 		System.out.println("Update data: "+employee.name+ ", $ "+employee.netSalary()) ;
 		
-		
-	}
+		sc.close();
+	}	
 
 }
